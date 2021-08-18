@@ -1,0 +1,16 @@
+// Sprites Map
+$sp_home: (
+	name: 'sp_home',
+	ratio: 3,
+	width: 72px,
+	height: 72px,
+	image: '/src/assets/img/sprite/sp_home.png',
+	sprites: (
+	btn_close: (
+			offset-x: 0px,
+			offset-y: 0px,
+			width: 72px,
+			height: 72px,
+		),
+	)
+);
